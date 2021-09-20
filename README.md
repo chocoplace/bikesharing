@@ -30,19 +30,19 @@ The deliverable for this analysis are the following:
 
  ![Viz3](https://github.com/chocoplace/bikesharing/blob/main/Resources/Viz3.png)
  
-   - **Trips by Gender**. On this visualization the investors can observe in detail the Trips by Gender. 
+   - **Trips by Gender**. On this visualization the investors can observe in detail the Trips by Gender. Male users are more likely to request the service. 
 
  ![Viz4](https://github.com/chocoplace/bikesharing/blob/main/Resources/Viz4.png)
  
-   - **User Trips by Gender**. On this visualization the investors can observe in detail the Trips by Gender. 
+   - **User Trips by Gender**. On this visualization the investors can observe in detail the Trips by Gender. Male users are more likely to request the service. 
 
  ![Viz5](https://github.com/chocoplace/bikesharing/blob/main/Resources/Viz5.png)
 
-   - **Average Trip Duration from Module 14**. 
+   - **Average Trip Duration by Age from Module 14**. This visualization set expectations for trip duration by gender and age to plan as needed for the project. 
 
  ![Viz6](https://github.com/chocoplace/bikesharing/blob/main/Resources/Viz6.png)
  
-   - **Bike Utilization from Module 14**. 
+   - **Bike Utilization from Module 14**. The visualization presents the number of trips per bike during the month of August to help understand the relations of duration of trips and number of bikes needed. 
 
  ![Viz7](https://github.com/chocoplace/bikesharing/blob/main/Resources/Viz7.png)
  
@@ -51,6 +51,13 @@ The deliverable for this analysis are the following:
  ![Viz8](https://github.com/chocoplace/bikesharing/blob/main/Resources/Screenshot_3.png)
 
 - Deliverable 3. The outcomes and visualization of this analysis can be found on Tableau Public [link to dashboard](https://public.tableau.com/app/profile/soco.hernandez/viz/Module_14FinalPresentationChallenge/FinalPresentation?publish=yes). 
+
+### Results: 
+
+At the end the analysis convey positve results of the bike-sharing service for NYC Citi Bike. The analysis can serve as a Proof of Content to convice the possible investors of Des Moines. There is an area of opportunity for Female users. The additional visualizations that can be done to complement this analysis are: 1) Trip Location by Gender to analyze the relations between Male users and location and see if the service is for tourism purposes or work related, here is another area of opportunity for this bussiness project and 2)Bikeaid by Location to see what areas registered more aid per bike/trip.  
+
+End. 
+
 
 
 
